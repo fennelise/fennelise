@@ -2,7 +2,7 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    MISS LAVANDIA // ML                      ║
+║                    fennelise // ML                      ║
 ║              FULL STACK DEVELOPER & SECURITY                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -287,7 +287,7 @@ Mes repositories regroupent principalement des projets de **développement**, **
 ## `> Contact`
 
 ```bash
-$ echo "contact.misslavandia@proton.me."
+
 ```
 
 💻 **Full Stack Developer**
