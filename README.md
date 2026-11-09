@@ -285,9 +285,9 @@ Mes repositories regroupent principalement des projets de **développement**, **
 ---
 
 ## `> Contact`
-contact.lise.sunny@proton.me
-```bash
 
+```bash
+contact.lise.sunny@proton.me
 ```
 
 💻 **Full Stack Developer**
